@@ -4,7 +4,7 @@
 
     <groupId>com.balaz</groupId>
     <artifactId>pet-clinic-spring</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-spring-data</module>
         <module>pet-clinic-spring-web</module>
@@ -49,7 +49,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/anbalaz/pet-clinic-spring.git</developerConnection>
-      <tag>pet-clinic-spring-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
